@@ -1,4 +1,4 @@
-# cmstemplate
+# 40923251 cmsimde_site
 Github pages template for cmsimde submodule
 
-http://mde.tw/cmstemplate
+https://40923251.github.io/cd2022/
